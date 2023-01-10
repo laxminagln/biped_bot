@@ -6,5 +6,6 @@ A biped bot made using nodemcu.
 - servo motors x 8
 - acrylic board of rigid body
 - jumper wires
+- ultrasonic sensor
 
 
